@@ -16,15 +16,15 @@ import winsound
 # ============================================================
 # 配色方案
 # ============================================================
-COLOR_BG = "#1E1E2E"           # 深色背景
-COLOR_SURFACE = "#2A2A3C"      # 卡片/面板色
+COLOR_BG = "#F5F5F5"           # 浅灰背景
+COLOR_SURFACE = "#FFFFFF"      # 白色卡片/面板
 COLOR_PRIMARY = "#E34F33"      # 番茄红（主色调）
-COLOR_PRIMARY_DIM = "#8B3A2A"  # 暗番茄红（进度环底色）
+COLOR_PRIMARY_DIM = "#F0D0C8"  # 浅粉（进度环底色）
 COLOR_GREEN = "#4CAF50"        # 休息模式绿色
 COLOR_BLUE = "#2196F3"         # 长休息蓝色
-COLOR_TEXT = "#EEE8E0"         # 浅色文字
-COLOR_TEXT_DIM = "#9999AA"     # 次要文字
-COLOR_ACCENT = "#FFA726"       # 强调色
+COLOR_TEXT = "#333333"         # 深色文字
+COLOR_TEXT_DIM = "#999999"     # 次要文字灰色
+COLOR_ACCENT = "#FF6B35"       # 橙色强调
 
 # 模式配置: (名称, 默认分钟数, 颜色)
 MODES = {
